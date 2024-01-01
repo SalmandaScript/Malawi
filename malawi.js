@@ -112,6 +112,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function madagascar(){
+open("https://salmandascript.github.io/Madagascar/Madagascar.html");
+}
+
+//next page 
+function mali(){
+open("https://salmandascript.github.io/Mali/Mali.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
